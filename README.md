@@ -5,7 +5,7 @@ This project demonstrates how to analyze a real-world e-commerce inventory datas
 
 📋 Dataset
 
-The dataset contains product-level inventory information including:
+The dataset contains product-level inventory information including-
 
 Product categories
 
